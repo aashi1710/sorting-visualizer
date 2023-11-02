@@ -4,6 +4,8 @@
 ![Sorting Visualizer Demo](demo.gif)
 
 The **Sorting Visualizer** is a simple web application that allows you to visualize various sorting algorithms in action. It provides an interactive way to understand how different sorting algorithms work and how their performance can vary based on input data size.
+<img width="956" alt="image" src="https://github.com/aashi1710/sorting-visualizer/assets/98670263/fca6e8ae-f6c3-440f-853a-6ad3f1520065">
+
 
 ## Features
 
